@@ -115,5 +115,5 @@ function mouseReleased() {
         if (distance <= lmango.r + lstone.r) {
             Matter.Body.setStatic(lmango.body, false);
         }
-
     }
+}
