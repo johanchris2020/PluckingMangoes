@@ -97,7 +97,7 @@ function mouseDragged() {
 
 //create mouseReleased function here
 function mouseReleased() {
-    launcherObj
+
     //create keyPressed function here
     function keyPressed() {
         if (keyCode === 32) {
